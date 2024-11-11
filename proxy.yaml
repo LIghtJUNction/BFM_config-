@@ -217,6 +217,8 @@ payload:
   - 'nab.demdex.net'
   - 'nationalaustraliaban.tt.omtrdc.net'
   - 'netflix.com.edgesuite.net'
+  - 'notary-submissions-prod.s3-accelerate.amazonaws.com'
+  - 'notary-submissions-prod.s3.us-west-2.amazonaws.com'
   - 'notify.ppy.sh'
   - 'nurofensk-prod-env.eu-west-1.elasticbeanstalk.com'
   - 'nvidia.tt.omtrdc.net'
